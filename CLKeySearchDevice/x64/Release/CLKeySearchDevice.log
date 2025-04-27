@@ -1,0 +1,20 @@
+﻿  Embed bitcrack.cl into bitcrack_cl.cpp
+  
+  F:\BitCrack\clMath\ripemd160.cl
+  
+  
+  
+  F:\BitCrack\clMath\secp256k1.cl
+  
+  
+  
+  F:\BitCrack\clMath\sha256.cl
+  
+  
+  
+  keysearch.cl
+  
+  
+  bitcrack_cl.cpp
+  CLKeySearchDevice.cpp
+C:\Program Files (x86)\AMD APP SDK\2.9\include\CL\cl.h(30,10): fatal error C1083: Não é possível abrir arquivo incluir: 'CL/cl_platform.h': No such file or directory
